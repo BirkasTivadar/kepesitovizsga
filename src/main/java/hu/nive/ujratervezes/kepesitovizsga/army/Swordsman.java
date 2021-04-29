@@ -17,4 +17,5 @@ public class Swordsman extends MilitaryUnit {
         }
         super.sufferDamage(damage);
     }
+
 }

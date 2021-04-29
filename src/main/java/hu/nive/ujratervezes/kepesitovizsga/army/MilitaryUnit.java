@@ -29,4 +29,5 @@ public abstract class MilitaryUnit {
     public void sufferDamage(int damage) {
         hitPoints -= armoured ? damage / 2 : damage;
     }
+
 }

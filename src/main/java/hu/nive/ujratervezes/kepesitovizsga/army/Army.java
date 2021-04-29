@@ -25,4 +25,5 @@ public class Army {
         militaryUnits.forEach(e -> e.sufferDamage(damage));
         militaryUnits = militaryUnits.stream().filter(e -> e.getHitPoints() > 25).collect(Collectors.toList());
     }
+
 }

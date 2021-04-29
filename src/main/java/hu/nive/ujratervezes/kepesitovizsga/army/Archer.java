@@ -6,4 +6,5 @@ public class Archer extends MilitaryUnit {
         super(50, 20, false);
     }
 
+
 }

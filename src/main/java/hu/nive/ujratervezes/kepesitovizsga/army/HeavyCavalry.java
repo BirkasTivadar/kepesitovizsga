@@ -18,5 +18,4 @@ public class HeavyCavalry extends MilitaryUnit {
         return super.doDamage();
     }
 
-
 }
