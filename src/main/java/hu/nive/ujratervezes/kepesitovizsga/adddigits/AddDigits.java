@@ -14,7 +14,6 @@ public class AddDigits {
                 sum += Integer.parseInt(String.valueOf(c));
             }
         }
-
         return sum;
     }
 
